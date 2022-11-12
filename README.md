@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**SteveMarshall/SteveMarshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Steve Marshall**, a technology leader and software developer in London.
 
-Here are some ideas to get you started:
+You can follow me [on Twitter](https://twitter.com/SteveMarshall){: rel="me"}
+or [on Mastodon](https://mastodon.social/@stevemarshall){: rel="me"},
+look at my photos on [Instagram](https://instagram.com/nascentguruism){: rel="me"}
+and [flickr](https://www.flickr.com/photos/steviebm){: rel="me"}, or
+[email me](mailto:hi@stevemarshall.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working at @ministryofjustice as Head of Hosting, looking
+after teams building modern hosting platforms and improving our
+developers' experience. I've previously worked on citizen facing
+government services, travel APIs, sites for burgeoning rock bands,
+award-winning intranets, and a host of things between.
